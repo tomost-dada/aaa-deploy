@@ -11,10 +11,14 @@
             "id": "0659b4af2db861b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_주차별미션/Week_01/다다.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "다다"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_주차별미션/Week_01/다다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "다다 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_주차별미션/Week_01/다다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "다다 의 나가는 링크"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00_주차별미션/Week_01/다다.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "다다 의 개요"
             }
           }
         ]
@@ -176,8 +183,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "4a491485196e9b59",
+  "active": "0659b4af2db861b2",
   "lastOpenFiles": [
+    "00_주차별미션/Week_01/다다.md",
+    "무제",
     "00_주차별미션/Week_01",
     "01_인사이트 및 리소스",
     "무제 폴더",
