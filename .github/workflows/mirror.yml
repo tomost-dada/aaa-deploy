@@ -13,6 +13,8 @@ jobs:
           fetch-depth: 0
 
       - name: Push to personal repo
+        env:
+          TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          git remote add personal https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/tomost-dada/aaa-deploy.git
+          git remote add personal https://tomost-dada:${TOKEN}@github.com/tomost-dada/aaa-deploy.git
           git push personal main --force
