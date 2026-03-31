@@ -9,3 +9,4 @@
 
 # Claude
 .claude/
+!.claude/skills/
